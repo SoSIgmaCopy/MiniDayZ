@@ -1,52 +1,58 @@
 {
-	"mods":[
+	"mods": [
 		{
-			"name":"Response server simulator",
-			"description":"If you want to play singleplayer mode, this mod must be enabled",
-			"script":"server-simulator",
-			"version":"1.0.2"
+			"name": "Response server simulator",
+			"description": "If you want to play singleplayer mode, this mod must be enabled",
+			"script": "server-simulator",
+			"version": "1.0.2"
 		},
 		{
-			"name":"Save exporter & importer",
-			"description":"Required: \"Response server simulator\"",
-			"script":"save-export-import",
-			"version":"1.0.0"
+			"name": "Save exporter & importer",
+			"description": "Required: \"Response server simulator\"",
+			"script": "save-export-import",
+			"version": "1.0.0"
 		},
 		{
-			"name":"Quick in-game map",
-			"description":"To show in-game map click ESC and Map button",
-			"script":"in-game-map",
-			"version":"1.0.3"
+			"name": "Quick in-game map",
+			"description": "To show in-game map click ESC and Map button",
+			"script": "in-game-map",
+			"version": "1.0.3"
 		},
 		{
-			"name":"Map link change",
-			"description":"Change original map image link to MeterPreter57 github image link",
-			"script":"map-link-change",
-			"version":"1.0.0"
+			"name": "Map link change",
+			"description": "Change original map image link to MeterPreter57 github image link",
+			"script": "map-link-change",
+			"version": "1.0.0"
 		},
 		{
-			"name":"Canvas fix",
-			"description":"Change game resolution for better experience",
-			"script":"canvas-fix",
-			"version":"1.0.0-beta"
+			"name": "Canvas fix",
+			"description": "Change game resolution for better experience",
+			"script": "canvas-fix",
+			"version": "1.0.0-beta"
 		},
 		{
-			"name":"Clear cache",
-			"description":"Mainly used during development",
-			"script":"clear-cache",
-			"version":"1.0.0"
+			"name": "Clear cache",
+			"description": "Mainly used during development",
+			"script": "clear-cache",
+			"version": "1.0.0"
 		},
 		{
-			"name":"Save editor",
-			"description":"Edit your in-game position, map, difficulty level, equipment and items",
-			"script":"save-editor",
-			"version":"0.0.2-beta"
+			"name": "Save editor",
+			"description": "Edit your in-game position, map, difficulty level, equipment and items",
+			"script": "save-editor",
+			"version": "0.0.2-beta"
 		},
 		{
-			"name":"🎮 Toolkit showcase",
-			"description":"This is an example of using the new tools for loading data.js modifications. <br>In this example, new logo is loaded and there is one game mode in which we get new bonus items at the start",
-			"script":"toolkit-showcase",
-			"version":"1.0.0"
+			"name": "Toolkit showcase",
+			"description": "This is an example of using the new tools for loading data.js modifications. <br>In this example, new logo is loaded and there is one game mode in which we get new bonus items at the start",
+			"script": "toolkit-showcase",
+			"version": "1.0.0"
+		},
+		{
+			"name": "Hack Menu",
+			"description": "Unlimited resources, god mode, speed boost, and item spawner.",
+			"script": "hack-menu",
+			"version": "1.0.0"
 		}
 	]
 }
